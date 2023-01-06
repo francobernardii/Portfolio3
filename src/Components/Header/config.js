@@ -4,26 +4,26 @@ const navBarButtons = [
     {
         text: 'Home',
         url: '/',
-        iconURL: '',
-        iconALT: ''
+        iconURL: 'src/assets/Header/NavBar/home.svg',
+        iconALT: 'Home Button'
     },
     {
         text: 'About Me',
         url: '/AboutMe',
-        iconURL: '',
-        iconALT: ''
+        iconURL: 'src/assets/Header/NavBar/aboutMe.svg',
+        iconALT: 'About Me Button'
     },
     {
         text: 'Projects',
         url: '/Projects',
-        iconURL: '',
-        iconALT: ''
+        iconURL: 'src/assets/Header/NavBar/projects.svg',
+        iconALT: 'Projects Button'
     },
     {
         text: 'Contact Me',
         url: '/Contact',
-        iconURL: '',
-        iconALT: ''
+        iconURL: 'src/assets/Header/NavBar/contactMe.svg',
+        iconALT: 'Contact Me Button'
     }
 ]
 

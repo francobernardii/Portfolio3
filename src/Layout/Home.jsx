@@ -1,5 +1,5 @@
 import Typed from 'react-typed';
-
+import { Link } from 'react-router-dom';
 function Home() {
     return (
         <section className='w-full h-screen flex flex-col justify-center items-center text-5xl'>
@@ -12,7 +12,7 @@ function Home() {
                     backDelay={1000}
                     className="text-yellow-500 font-bold"
             />
-            <button className='text-gray-50 text-2xl mt-10 p-4 rounded-xl  bg-yellow-500 hover:bg-yellow-600 hover:duration-700 hover:scale-105'>Download CV</button>
+            <Link to="src/assets/Programmer - Franco Bernardi.pdf" target="_blank" download  className='bg-white hover:bg-gray-100 text-gray-800 p-4 mt-10 border border-gray-400 rounded shadow text-2xl hover:scale-105 duration-500'>Download CV</Link>
         </section>
     )
 }
