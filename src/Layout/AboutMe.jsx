@@ -18,8 +18,8 @@ function AboutMe() {
                 </div>
                 <div className="flex flex-col gap-5 items-center text-center sm:items-start">
                     <h1 className="text-lg font-bold">Idiomas 🌎</h1>
-                    <span>&#x2022; <b>Spanish:</b> Native</span>
-                    <span>&#x2022; <b>English:</b> Intermidiate (B2)</span>
+                    <span><b>Spanish:</b> Native</span>
+                    <span><b>English:</b> Intermidiate (B2)</span>
                 </div>
                 <div className="flex flex-col gap-5 items-center sm:items-start sm:col-span-2">
                     <h1 className="text-lg font-bold">Technologies 💻</h1>
