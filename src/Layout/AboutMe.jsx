@@ -29,7 +29,7 @@ function AboutMe() {
                         <span>&#x2022; React</span>
                         <span>&#x2022; C#</span>
                         <span>&#x2022; SQL Server</span>
-                        <span>&#x2022; Tailwind - Bootstrap - Sass</span>
+                        <span>&#x2022; Tailwind - Sass</span>
                     </div>
                 </div>
             </div>
