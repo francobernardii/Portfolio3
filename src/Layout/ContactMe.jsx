@@ -1,4 +1,4 @@
-import ContactOption from "../Components/ContactMe/contactOption";
+import ContactOption from "src/Components/ContactMe/ContactOption.jsx";
 
 function ContactMe() {
     return ( 
