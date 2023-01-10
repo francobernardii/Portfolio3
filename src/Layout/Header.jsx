@@ -1,6 +1,6 @@
 import Logo from "../Components/Header/Logo";
 import NavBar from "../Components/Header/NavBar";
-import {navBarButtons} from "src/Components/Header/config.js"
+import {navBarButtons} from "/src/Components/Header/config.js"
 
 function Header() {
     return ( 
